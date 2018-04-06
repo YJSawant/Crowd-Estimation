@@ -1,0 +1,18 @@
+doc
+testing
+{Reference to non-existent field 'vid'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('testing>face_Callback', 'G:\ENGG SHUBHAM\final year\final year project\MATLAB\AZ8_Real_time_Face_Detection_Matlab\Real_time_Face_Detection_Matlab\testing.m', 93)" style="font-weight:bold">testing>face_Callback</a> (<a href="matlab: opentoline('G:\ENGG SHUBHAM\final year\final year project\MATLAB\AZ8_Real_time_Face_Detection_Matlab\Real_time_Face_Detection_Matlab\testing.m',93,0)">line 93</a>)
+triggerconfig(handles.vid ,'manual');
+
+Error in <a href="matlab:helpUtils.errorDocCallback('gui_mainfcn', 'C:\Program Files\MATLAB\R2013a\toolbox\matlab\guide\gui_mainfcn.m', 96)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2013a\toolbox\matlab\guide\gui_mainfcn.m',96,0)">line 96</a>)
+        feval(varargin{:});
+
+Error in <a href="matlab:helpUtils.errorDocCallback('testing', 'G:\ENGG SHUBHAM\final year\final year project\MATLAB\AZ8_Real_time_Face_Detection_Matlab\Real_time_Face_Detection_Matlab\testing.m', 42)" style="font-weight:bold">testing</a> (<a href="matlab: opentoline('G:\ENGG SHUBHAM\final year\final year project\MATLAB\AZ8_Real_time_Face_Detection_Matlab\Real_time_Face_Detection_Matlab\testing.m',42,0)">line 42</a>)
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in <a href="matlab:helpUtils.errorDocCallback('@(hObject,eventdata)testing(''face_Callback'',hObject,eventdata,guidata(hObject))', '', 0)" style="font-weight:bold">@(hObject,eventdata)testing('face_Callback',hObject,eventdata,guidata(hObject))</a>
+
+} 
+Error while evaluating uicontrol Callback
+
